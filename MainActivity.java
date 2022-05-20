@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
             }
             return;
         }
+        // changes made from lastLogIn branch
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
 
 
